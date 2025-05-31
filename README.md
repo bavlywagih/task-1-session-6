@@ -49,7 +49,7 @@ This is a customizable **Password Generator** built with **HTML**, **CSS**, and 
 
 ## 📸 Screenshot
 
-![alt text](image.png)
+![alt text](https://github.com/bavlywagih/task-1-session-6/blob/main/.github/workflows/image.png?raw=true)
 
 ---
 
