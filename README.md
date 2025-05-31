@@ -3,7 +3,7 @@
 
 This is a customizable **Password Generator** built with **HTML**, **CSS**, and **JavaScript**. It allows users to create strong and secure passwords with options for length, character types, and copy functionality.
 
-![alt text](image.png)
+![alt text](https://github.com/bavlywagih/task-1-session-6/blob/main/.github/workflows/4443.PNG?raw=true)
 ---
 
 ## 🚀 Features
